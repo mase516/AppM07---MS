@@ -177,28 +177,6 @@
             button9.UseVisualStyleBackColor = false;
             button9.Click += button9_Click;
             // 
-            // button10
-            // 
-            button10.BackColor = Color.Cyan;
-            button10.Location = new Point(446, 182);
-            button10.Name = "button10";
-            button10.Size = new Size(75, 23);
-            button10.TabIndex = 13;
-            button10.Text = "Unirse";
-            button10.UseVisualStyleBackColor = false;
-            button10.Click += this.button10_Click;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.BackColor = Color.Cyan;
-            label5.Location = new Point(446, 164);
-            label5.Name = "label5";
-            label5.Size = new Size(163, 15);
-            label5.TabIndex = 12;
-            label5.Text = "Liga Nacional (Sin Requisitos)";
-            label5.Click += this.label5_Click;
-            // 
             // button11
             // 
             button11.BackColor = Color.FromArgb(128, 128, 255);
